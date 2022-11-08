@@ -1,4 +1,4 @@
-function sum(a, b) {
-  return a + b;
+function sumValues(a, b) {
+    return a + b;
 }
-sum(10, 20);
+sumValues(10, 20);
