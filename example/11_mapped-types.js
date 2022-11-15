@@ -1,0 +1,3 @@
+var ages = {
+    Hulk: 'a'
+};
