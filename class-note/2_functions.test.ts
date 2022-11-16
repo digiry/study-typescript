@@ -19,3 +19,22 @@ describe('test add function', () => {
     expect(add()).toBe(10);
   });
 });
+
+function sum2(a: number, b?: number): number {
+  if (b === undefined) {
+    return a;
+  }
+  return a + b;
+}
+
+describe('test optional parameter', () => {
+  test.each([
+    [[10,20], 30],
+    [[10], 10],
+  ])('call func with every parameter', (params: number[], result: number) => {
+    let a: number;
+    let b: number;
+    [a, b] = params;
+    expect(sum2(a, b)).toBe(result);
+  });
+});
