@@ -1,4 +1,4 @@
-import { describe, test, expect } from '@jest/globals';
+import { expect } from 'chai';
 
 type MyUser = {
   gender: string;
@@ -19,7 +19,7 @@ describe('test filter', () => {
       }
     });
 
-    expect(filtered.length).toBe(1);
-    expect(filtered[0]).toEqual({ gender: 'female', name: 'sarah' });
+    expect(filtered.length).to.be(1);
+    expect(filtered[0]).to.equal({ gender: 'female', name: 'sarah' });
   });
 });
