@@ -18,3 +18,4 @@ var person = { age: 100, name: 'Capt' };
 person.age = 101;
 // 진위값
 var isLogin = false;
+//# sourceMappingURL=1_type-basic.js.map

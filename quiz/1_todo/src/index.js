@@ -1,3 +1,8 @@
+// type Todo = {
+//   id: number;
+//   title: string;
+//   done: boolean;
+// };
 var todoItems;
 // api
 function fetchTodoItems() {
@@ -43,3 +48,4 @@ function log() {
 todoItems = fetchTodoItems();
 addTwoTodoItems();
 log();
+//# sourceMappingURL=index.js.map

@@ -9,3 +9,4 @@ function getPerson() {
 var capt = {
 // skill: 'throwing a shield' 
 };
+//# sourceMappingURL=6_type-alias.js.map

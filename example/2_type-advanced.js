@@ -22,3 +22,4 @@ var divElement = document.querySelector('#app');
 divElement.innerHTML;
 // const empty = document.querySelector('#app') as null;
 // empty.innerHTML;
+//# sourceMappingURL=2_type-advanced.js.map

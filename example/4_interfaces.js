@@ -6,3 +6,4 @@ function getUser(user) {
 }
 getUser(seho);
 var joo = { name: 'joo', age: 20, language: 'ts' };
+//# sourceMappingURL=4_interfaces.js.map

@@ -16,3 +16,4 @@ var sum = function (a, b) {
 // var d: Person | string;
 // c = d;
 // d = c;
+//# sourceMappingURL=type-comp.js.map

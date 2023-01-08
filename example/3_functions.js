@@ -23,3 +23,4 @@ function printText(text, type) {
     console.log(text);
 }
 printText('hi');
+//# sourceMappingURL=3_functions.js.map

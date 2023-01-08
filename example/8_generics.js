@@ -33,3 +33,4 @@ function getAllowedOptions(option) {
 getAllowedOptions('nothing');
 // const a = getAllowedOptions('name');
 // a.toUpperCase(); // Name
+//# sourceMappingURL=8_generics.js.map

@@ -14,3 +14,4 @@ var detailItems = {
     description: 'b',
     tag: 'c'
 };
+//# sourceMappingURL=9_type-inference.js.map

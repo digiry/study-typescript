@@ -21,3 +21,4 @@ emails.forEach(function (email) {
     var selectTag = document.querySelector('#email-dropdown');
     selectTag.appendChild(item);
 });
+//# sourceMappingURL=dropdown-generic.js.map

@@ -24,3 +24,4 @@ function askSomeone(someone) {
     someone.name; // O
     someone.age; // X
 }
+//# sourceMappingURL=7_union-intersection.js.map
